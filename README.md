@@ -9,9 +9,9 @@ Meitnerium is a synthetic chemical element with the symbol Mt and atomic number 
 
 ## Additional Repos
 
-Atom Syntax: [atom-meitnerium-syntax](https://gitlab.com/c-jaenicke/atom-meitnerium-syntax)
+Atom Syntax: [meitnerium-syntax](https://github.com/c-jaenicke/meitnerium-syntax)
 
-Atom UI: [atom-meitnerium-ui](https://gitlab.com/c-jaenicke/atom-meitnerium-ui)
+Atom UI: [meitnerium-ui](https://github.com/c-jaenicke/meitnerium-ui)
 
 <br />
 
@@ -23,8 +23,8 @@ Atom UI: [atom-meitnerium-ui](https://gitlab.com/c-jaenicke/atom-meitnerium-ui)
 A simpler palette.
 
 <p float="left">
-  <img src="https://gitlab.com/c-jaenicke/meitnerium-theme/-/raw/master/.images/Meitnerium-Single-Palette.png" width="400" />
-  <img src="https://gitlab.com/c-jaenicke/meitnerium-theme/-/raw/master/.images/Meitnerium-Single-Code.png" width="400" />
+  <img src="https://raw.githubusercontent.com/c-jaenicke/Meitnerium-Theme/master/.images/Meitnerium-Single-Palette.png" width="400" />
+  <img src="https://raw.githubusercontent.com/c-jaenicke/Meitnerium-Theme/master/.images/Meitnerium-Single-Code.png" width="400" />
 </p>
 
 ### Double
@@ -32,6 +32,6 @@ A simpler palette.
 Pastel colors in addtion to the full ones.
 
 <p float="left">
-  <img src="https://gitlab.com/c-jaenicke/meitnerium-theme/-/raw/master/.images/Meitnerium-Double-Palette.png" width="400" />
-  <img src="https://gitlab.com/c-jaenicke/meitnerium-theme/-/raw/master/.images/Meitnerium-Double-Code.png" width="400" />
+  <img src="https://raw.githubusercontent.com/c-jaenicke/Meitnerium-Theme/master/.images/Meitnerium-Double-Palette.png" width="400" />
+  <img src="https://raw.githubusercontent.com/c-jaenicke/Meitnerium-Theme/master/.images/Meitnerium-Double-Code.png" width="400" />
 </p>
