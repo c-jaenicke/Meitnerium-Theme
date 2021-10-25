@@ -1,0 +1,29 @@
+;###################################################################################################
+; colors
+;###################################################################################################
+[colors]
+background = #21262b
+background-alt = #444
+foreground = #dededd
+foreground-alt = #555
+primary = #dededd
+secondary = #424b55
+alert = #f32e2e
+
+red = #f32e2e
+red-light = #ff9f9f
+
+green = #75ee37
+green-light = #acff82
+
+yellow = #f2cf26
+yellow-light = #ffe87b
+
+blue = #3160f2
+blue-light = #7c9cff
+
+pink = #c930f3
+pink-light = #e279ff
+
+cyan = #2beeb4
+cyan-light = 75ffd6

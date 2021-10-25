@@ -1,0 +1,22 @@
+####################################################################################################
+# COLORS
+####################################################################################################
+# color variables
+set $bg     #21262b
+set $fg     #dededd
+set $red    #f32e2e
+set $green  #75ee37
+set $yellow #f2cf26
+set $blue   #3160f2
+set $purple #c930f3
+set $cyan   #2beeb4
+set $grey   #7d7a68
+
+# class                 border  backgr. text    indicator child_border
+client.focused          $blue   $bg     $fg     $cyan     $blue
+client.focused_inactive $grey   $bg     $fg     $blue     $blue
+client.unfocused        $grey   $bg     $grey   $grey     $blue
+client.urgent           $grey   $bg     $red    $red      $blue
+client.placeholder      $bg     $bg     $grey   $grey     $blue
+
+client.background       $bg

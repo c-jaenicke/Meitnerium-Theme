@@ -1,0 +1,31 @@
+####################################################################################################
+# colors
+####################################################################################################
+# my own color theme:  meitnerium
+colors:
+  # Default colors
+  primary:
+    background: '0x21262b'
+    foreground: '0xdededd'
+
+  # Normal colors
+  normal:
+    black:   '0x424b55'
+    red:     '0xf32e2e'
+    green:   '0x75ee37'
+    yellow:  '0xf2cf26'
+    blue:    '0x3160f2'
+    magenta: '0xc930f3'
+    cyan:    '0x2beeb4'
+    white:   '0x95917d'
+
+  # Bright colors
+  bright:
+    black:   '0x7d7a68'
+    red:     '0xff9f9f'
+    green:   '0xacff82'
+    yellow:  '0xffe87b'
+    blue:    '0x7c9cff'
+    magenta: '0xe279ff'
+    cyan:    '0x75ffd6'
+    white:   '0xfefbec
