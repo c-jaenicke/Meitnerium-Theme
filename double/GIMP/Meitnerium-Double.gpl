@@ -1,22 +1,21 @@
 GIMP Palette
 Name: Meitnerium Double
-Columns: 0
 #
-222 222 221	Unbenannt
-  33  38  43	Unbenannt
- 66  75  85	Unbenannt
-125 122 104	Unbenannt
-243  46  46	Unbenannt
-255 159 159	Unbenannt
-117 238  55	Unbenannt
-172 255 130	Unbenannt
-242 207  38	Unbenannt
-255 232 123	Unbenannt
- 49  96 242	Unbenannt
-124 156 255	Unbenannt
-201  48 243	Unbenannt
-226 121 255	Unbenannt
- 43 238 180	Unbenannt
-117 255 214	Unbenannt
-149 145 125	Unbenannt
-254 251 236	Unbenannt
+222 222 221	Foreground
+  33  38  43 Background
+ 66  75  85	Color 0
+125 122 104	Color 8
+243  46  46	Color 1 Red
+255 159 159	Color 2 Light Red
+117 238  55	Color 2 Green
+172 255 130	Color 10 Light Green
+242 207  38	Color 3 Yellow
+255 232 123	Color 11 Light Yellow
+ 49  96 242	Color 4 Blue
+124 156 255	Color 12 Light Blue
+201  48 243	Color 5 Magenta
+226 121 255	Color 13 Light Magenta
+ 43 238 180	Color 6 Cyan
+117 255 214	Color 14 Light Cyan
+149 145 125	color 7 Grey
+254 251 236	Color 15 White
