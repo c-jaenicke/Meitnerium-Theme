@@ -1,8 +1,8 @@
 # Meitnerium Color Theme
 
-A custom, modern and bright theme.
+A custom color theme.
 
-Meitnerium is a synthetic chemical element with the symbol Mt and atomic number 109. It is an extremely radioactive synthetic element.
+![Avatar](https://github.com/c-jaenicke/meitnerium-theme/blob/62309a4ff4273965c4be15aff644f90897daa085/res/avatar.png)
 
 ## Additional Repos
 
@@ -13,6 +13,6 @@ Meitnerium is a synthetic chemical element with the symbol Mt and atomic number 
 
 ## Images
 
-| Single | Double |
-| --- |  --- |
-|![single](https://raw.githubusercontent.com/c-jaenicke/Meitnerium-Theme/master/.images/Meitnerium-Single-Palette.png) | ![double](https://raw.githubusercontent.com/c-jaenicke/Meitnerium-Theme/master/.images/Meitnerium-Double-Palette.png) |
+| Single                                                                                                                         | Double                                                                                                                         |
+| ------------------------------------------------------------------------------------------------------------------------------ | ------------------------------------------------------------------------------------------------------------------------------ |
+| ![single palette](https://github.com/c-jaenicke/meitnerium-theme/blob/62309a4ff4273965c4be15aff644f90897daa085/res/single-palette.png) | ![double palette](https://github.com/c-jaenicke/meitnerium-theme/blob/62309a4ff4273965c4be15aff644f90897daa085/res/double-palette.png) |
