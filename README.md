@@ -13,8 +13,12 @@ A custom color theme.
 
 ## Images
 
+
+### Single
 ![single](https://raw.githubusercontent.com/c-jaenicke/meitnerium-theme/master/.res/single.png)
 
+### Double
 ![double](https://raw.githubusercontent.com/c-jaenicke/meitnerium-theme/master/.res/double.png)
 
+### Spooky
 ![spooky](https://raw.githubusercontent.com/c-jaenicke/meitnerium-theme/master/.res/spooky.png)
