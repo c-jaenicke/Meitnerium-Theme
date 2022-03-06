@@ -13,6 +13,8 @@ A custom color theme.
 
 ## Images
 
-| Single                                                                                                                         | Double                                                                                                                         |
-| ------------------------------------------------------------------------------------------------------------------------------ | ------------------------------------------------------------------------------------------------------------------------------ |
-| ![single palette](https://github.com/c-jaenicke/meitnerium-theme/blob/62309a4ff4273965c4be15aff644f90897daa085/res/single-palette.png) | ![double palette](https://github.com/c-jaenicke/meitnerium-theme/blob/62309a4ff4273965c4be15aff644f90897daa085/res/double-palette.png) |
+![single](https://raw.githubusercontent.com/c-jaenicke/meitnerium-theme/master/.res/single.png)
+
+![double](https://raw.githubusercontent.com/c-jaenicke/meitnerium-theme/master/.res/double.png)
+
+![spooky](https://raw.githubusercontent.com/c-jaenicke/meitnerium-theme/master/.res/spooky.png)
