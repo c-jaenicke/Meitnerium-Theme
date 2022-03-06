@@ -1,0 +1,31 @@
+####################################################################################################
+# colors
+####################################################################################################
+# my own color theme:  meitnerium spooky
+colors:
+  # Default colors
+  primary:
+    background: '0x003333'
+    foreground: '0xffffff'
+
+  # Normal colors
+  normal:
+    black:   '0x003333'
+    red:     '0xcc3333'
+    green:   '0x339933'
+    yellow:  '0xcc6633'
+    blue:    '0x33ccff'
+    magenta: '0x663366'
+    cyan:    '0x00ffcc'
+    white:   '0x666666'
+
+  # Bright colors
+  bright:
+    black:   '0xcccccc'
+    red:     '0xff6666'
+    green:   '0x66ff99'
+    yellow:  '0xffcc66'
+    blue:    '0x66ccff'
+    magenta: '0x996699'
+    cyan:    '0x66ffcc'
+    white:   '0xffffff'
