@@ -10,6 +10,7 @@ A custom color theme.
 - [Atom UI](https://github.com/c-jaenicke/meitnerium-ui)
 - [TeamSpeak 3](https://github.com/c-jaenicke/meitnerium_teamspeak_style)
 - [VS Code](https://github.com/c-jaenicke/meitnerium-VSCode)
+- [Intellij](https://github.com/c-jaenicke/meitnerium-intellij)
 
 ## Images
 
